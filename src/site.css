@@ -1,0 +1,5 @@
+body {
+  border: 23px solid orange;
+  color: {{ theme.color }};
+  background: {{ theme.backgroundColor }};
+}
